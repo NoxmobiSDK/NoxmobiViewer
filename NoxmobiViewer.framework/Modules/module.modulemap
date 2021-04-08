@@ -1,0 +1,6 @@
+framework module NoxmobiViewer {
+  umbrella header "NoxmobiViewer.h"
+
+  export *
+  module * { export * }
+}
