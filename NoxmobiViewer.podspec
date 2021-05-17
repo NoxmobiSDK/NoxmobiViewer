@@ -2,7 +2,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "NoxmobiViewer"
-  spec.version      = "1.0.0"
+  spec.version      = "1.1.0"
   spec.summary      = "Noxmobi Ad Viewer."
   spec.homepage     = "https://github.com/NoxmobiSDK/NoxmobiViewer"
   spec.license      = "MIT"

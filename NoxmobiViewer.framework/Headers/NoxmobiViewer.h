@@ -7,6 +7,6 @@
 
 #import <Foundation/Foundation.h>
 
-#define NoxmobiViewerVersionString @"1.0.0"
+#define NoxmobiViewerVersionString @"1.1.0"
 
 
