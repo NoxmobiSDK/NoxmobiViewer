@@ -2,7 +2,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "NoxmobiViewer"
-  spec.version      = "1.1.0"
+  spec.version      = "1.2.0"
   spec.summary      = "Noxmobi Ad Viewer."
   spec.homepage     = "https://github.com/NoxmobiSDK/NoxmobiViewer"
   spec.license      = "MIT"
@@ -14,6 +14,6 @@ Pod::Spec.new do |spec|
   spec.pod_target_xcconfig = { 'OTHER_LDFLAGS' => '-lObjC' }
   spec.ios.vendored_frameworks = 'NoxmobiViewer.framework'
   spec.requires_arc = true
-  spec.frameworks = "Foundation", "UIKit"  
+  spec.frameworks = "Foundation", "UIKit"
 
 end
