@@ -7,6 +7,10 @@
 
 #import <Foundation/Foundation.h>
 
-#define NoxmobiViewerVersionString @"1.1.0"
+#define NoxmobiViewerVersionString @"1.2.1"
 
+@interface NoxmobiViewer : NSObject
 
++ (NSString *)sdkVersion;
+
+@end
